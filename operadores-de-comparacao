@@ -1,0 +1,13 @@
+<?php
+
+if (10 === "10"):
+    echo "positivo";
+else:
+    echo "negativo";
+
+endif;
+
+    // === é um operador de identidade, verifica se um
+     // elemento é IDENTICO ao outro. Por exemplo, 10 NÃO 
+      //  é idêntico a "10", porque um é string e um é int.
+      //
